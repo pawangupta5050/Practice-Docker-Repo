@@ -19,13 +19,13 @@ cd Practice-Docker-Repo
 
 # Contents
 
-1. **[Dockerfile Basics](dockerfile-basics/README.md)**
+1. **[Dockerfile Basics](https://docs.docker.com/get-started/02_our_app/)**
    Explore the fundamentals of Dockerfile creation. Learn how to define images and build Docker containers.
 
-2. **[Image Building](image-building/README.md)**
+2. **[Image Building](https://docs.docker.com/engine/reference/commandline/images/)**
    Dive into the process of building Docker images. Understand best practices for optimizing image size and efficiency.
 
-3. **[Container Orchestration](container-orchestration/README.md)**
+3. **[Container Orchestration](https://docs.docker.com/compose/)**
    Experiment with container orchestration tools. Get hands-on experience with Docker Compose and Kubernetes.
 
 ## Contributing
