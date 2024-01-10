@@ -10,7 +10,7 @@ function App() {
     <Router>
       <nav className="navbar">
         <Link to="/" className="navbar_title">
-          <h1>Anime</h1>
+          <h1>Anime Junction</h1>
         </Link>
         <div className="navbar_links">
           <Link to="/" className="navbar_link">
@@ -18,6 +18,9 @@ function App() {
           </Link>
           <Link to="/create" className="navbar_link">
             Share
+          </Link>
+          <Link to="/create" className="navbar_link">
+            Test
           </Link>
         </div>
       </nav>
